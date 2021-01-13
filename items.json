@@ -2,15 +2,15 @@
   "items": [
     { "id": 1, 
         "title": "Ana", 
-        "description": "typicode" 
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua" 
     },
         { "id": 2, 
         "title": "Nancy", 
-        "description": "typicode" 
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." 
     },
         { "id": 3, 
         "title": "Michael", 
-        "description": "typicode" 
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. " 
     }
   ]
 }
